@@ -1,0 +1,25 @@
+tr {
+  background-color: blanchedalmond;
+}
+
+table {
+  table-layout: fixed;
+  width: 100%;
+}
+
+td {
+  width: 25%;
+}
+
+.imgtd {
+  text-align: center;
+}
+
+.imgtd img {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.headertr {
+  background-color: cadetblue;
+}
